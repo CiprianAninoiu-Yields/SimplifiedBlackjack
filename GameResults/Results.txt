@@ -1,0 +1,38 @@
+//////////////////// Game Results ///////////////////////
+
+
+  <<DEALER>>
+* 7 of Hearts
+* 8 of Diamonds
+* 10 of Diamonds
+ - Total Value: 25
+
+
+ Adam(Lose):
+* 10 of Hearts
+* 10 of Spades
+ - Total Value: 20
+
+
+ Rowan(Lose):
+* 4 of Spades
+* 10 of Hearts
+* 5 of Hearts
+ - Total Value: 19
+
+
+ Alan(Bust):
+* 5 of Spades
+* 11 of Hearts
+* 9 of Clubs
+ - Total Value: 25
+
+
+ Ellie(Bust):
+* 4 of Diamonds
+* 10 of Clubs
+* 8 of Hearts
+ - Total Value: 22
+
+
+////////////////////////////////////////////////////////
